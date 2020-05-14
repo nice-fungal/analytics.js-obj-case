@@ -1,15 +1,12 @@
 {
-  "name": "obj-case",
-  "version": "0.2.1",
+  "name": "@head.js/analytics.js-obj-case",
+  "version": "0.2.1-1",
   "description": "Work with objects of different cased keys",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/segmentio/obj-case.git"
-  },
+  "repository": "http://github.com/nice-fungal/analytics.js-obj-case",
   "keywords": [
     "object",
     "case",
